@@ -2082,8 +2082,11 @@ body {
   width: 64%;
 }
 .cid-r0NX5vIkvB H2 {
-  color: #efefef;
+  color: #000000;
   text-align: right;
+}
+.cid-r0NX5vIkvB B {
+  color: #ffffff;
 }
 .cid-r0NVbtdoyL {
   padding-top: 60px;

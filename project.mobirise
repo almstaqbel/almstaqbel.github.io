@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -865,8 +865,11 @@
               "width": "(@sliderWSize * 1%)"
             },
             "H2": {
-              "color": "#efefef",
+              "color": "#000000",
               "text-align": "right"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_name": "slider2",
@@ -942,7 +945,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2-812x592.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -952,6 +955,24 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "<br><br><a href=\"page8.html\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;رباعيات تتبنى طموحك &nbsp;&nbsp;</a><br><a href=\"page8.html\">&nbsp; &nbsp; للمزيد</a>",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-09-21-at-5.45.10-pm1-1280x1054.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b><a href=\"page2.html\">للمزيد</a></b><br><br><br><b><br></b>",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
